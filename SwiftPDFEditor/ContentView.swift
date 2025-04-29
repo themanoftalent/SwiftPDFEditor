@@ -1,3 +1,8 @@
+// Created by Mehmet Akif Ciftci on 10/10/2023.
+// This file is part of SwiftPDFEditor.
+// SwiftPDFEditor is licensed under the MIT License.
+
+
 import SwiftUI
 import PDFKit
 import AppKit
