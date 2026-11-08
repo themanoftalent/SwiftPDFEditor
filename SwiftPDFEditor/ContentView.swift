@@ -118,6 +118,8 @@ struct PDFViewer: NSViewRepresentable {
     }
     
     func updateNSView(_ pdfView: PDFView, context: Context) {
-        pdfView.document = document
+        if pdfView.document !== document {
+            pdfView.document = document
+        }
     }
 }
