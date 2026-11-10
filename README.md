@@ -1,4 +1,6 @@
-# SwiftPDFEditor
+# PdfAle — Native Apple Platform PDF Editor
+
+PdfAle is a modern, native SwiftUI & PDFKit editor for Apple platforms (macOS & iOS).
 
 ## ☕ Sponsor or Buy Me a Coffee
 

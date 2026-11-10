@@ -1,14 +1,14 @@
 //
-//  SwiftPDFEditorTests.swift
-//  SwiftPDFEditorTests
+//  PdfAleTests.swift
+//  PdfAleTests
 //
-//  Created by Akif CIFTCI on 29.04.2025.
+//  Created by Mehmet Akif Ciftci.
 //
 
 import Testing
-@testable import SwiftPDFEditor
+@testable import PdfAle
 
-struct SwiftPDFEditorTests {
+struct PdfAleTests {
 
     @Test func example() async throws {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.

@@ -1,13 +1,13 @@
 //
-//  SwiftPDFEditorUITestsLaunchTests.swift
-//  SwiftPDFEditorUITests
+//  PdfAleUITestsLaunchTests.swift
+//  PdfAleUITests
 //
-//  Created by Akif CIFTCI on 29.04.2025.
+//  Created by Mehmet Akif Ciftci.
 //
 
 import XCTest
 
-final class SwiftPDFEditorUITestsLaunchTests: XCTestCase {
+final class PdfAleUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

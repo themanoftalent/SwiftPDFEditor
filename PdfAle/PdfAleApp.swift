@@ -1,14 +1,14 @@
 //
-//  SwiftPDFEditorApp.swift
-//  SwiftPDFEditor
+//  PdfAleApp.swift
+//  PdfAle
 //
-//  Created by Akif CIFTCI on 29.04.2025.
+//  Created by Mehmet Akif Ciftci.
 //
 
 import SwiftUI
 
 @main
-struct SwiftPDFEditorApp: App {
+struct PdfAleApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

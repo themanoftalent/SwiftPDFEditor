@@ -1,13 +1,13 @@
 //
-//  SwiftPDFEditorUITests.swift
-//  SwiftPDFEditorUITests
+//  PdfAleUITests.swift
+//  PdfAleUITests
 //
-//  Created by Akif CIFTCI on 29.04.2025.
+//  Created by Mehmet Akif Ciftci.
 //
 
 import XCTest
 
-final class SwiftPDFEditorUITests: XCTestCase {
+final class PdfAleUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
